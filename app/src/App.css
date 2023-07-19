@@ -1,0 +1,18 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.Toastify__toast-container--top-right {
+  top: 5em !important;
+}
+
+.Toastify__toast-container--bottom-center {
+  bottom: 51% !important;
+}
+.Toastify__toast-container--bottom-left {
+  bottom: 9% !important;
+  left: 50% !important;
+  transform: translate(-50%) !important;
+}
